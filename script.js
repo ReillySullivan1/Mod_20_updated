@@ -17,7 +17,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
     const resumeButton = document.getElementById('cs1-button');
     resumeButton.addEventListener('click', function(popover) {
-        window.location.href = 'https://drive.google.com/file/d/1I7cdRS0KQy1mydDYp3PBW7Ql1ZJPCuLL/view?usp=sharing';
+        window.location.href = 'https://docs.google.com/presentation/d/13u4gOYFfTUCKl9f4RRL7YUHrMnouaf56eaTrt09gK4Y/edit?usp=sharing';
     });
 });
-

@@ -110,10 +110,3 @@ nav ul li a.active {
     color: #000;
     border: 1px solid #000;
 }
-.badge{ 
-    background-color: yellow;
-    font-weight: bold;
-    border-radius: 3em;
-    padding: .4em;
-
-}
